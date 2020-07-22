@@ -18,17 +18,17 @@ CONVENTIONAL_PRODUCE = [
 
 def assembled_matrix
   produce_storage_room = [
-    "Grapefruit",
-    "Pineapple",
-    "Oranges",
-    "Watermelon",
-    "Eggplant"
-  ], [
     "Strawberries",
     "Potatoes",
     "Grapes",
     "Avocadoes",
     "Asparagus"
+  ], [
+    "Grapefruit",
+    "Pineapple",
+    "Oranges",
+    "Watermelon",
+    "Eggplant"
   ]
 
   # Build an array that contains both of the above arrays
